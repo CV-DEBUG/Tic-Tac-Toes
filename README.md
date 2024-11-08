@@ -35,9 +35,6 @@ The code and design of the Tic-Tac-Toe game in this repository closely follows t
 Voici le texte Markdown avec les icônes à côté des contributeurs :
 
 ### Contributors
-Voici le texte Markdown avec les icônes à côté des contributeurs :
-
-### Contributors
 
 [<img src="https://github.com/CV-DEBUG.png" width="30px;"/> <a href="https://github.com/CV-DEBUG">CV-DEBUG</a>](https://github.com/CV-DEBUG)
 [<img src="https://github.com/Lok774.png" width="30px;"/> <a href="https://github.com/Lok774">kerry-maureemootoo</a>](https://github.com/Lok774) 
