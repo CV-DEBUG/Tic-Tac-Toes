@@ -17,7 +17,6 @@ python3 Algo_Morpion.py for launch a round with the Terminator
 or
 python3 Human_Morpion.py if you want to launch a round with an other Human
 ```
-
 ### Documentation
 The project was developed using the book "Invent Your Own Computer Games with Python" by Al Sweigart, published by No Starch Press. This book provides a hands-on introduction to programming in Python, including a chapter on creating classic games like Tic-Tac-Toe.
 
@@ -33,7 +32,13 @@ Additionally, the YouTuber "Graven" has published a video tutorial on building a
 
 The code and design of the Tic-Tac-Toe game in this repository closely follows the examples and best practices outlined in the "Invent Your Own Computer Games with Python" book and the Graven video tutorial.
 
+Voici le texte Markdown avec les icônes à côté des contributeurs :
+
 ### Contributors
-- [CV-DEBUG](https://github.com/CV-DEBUG)
-- [kerry-maureemootoo](https://github.com/Lok774)
-- [antxinerx](https://github.com/antxinerx)
+Voici le texte Markdown avec les icônes à côté des contributeurs :
+
+### Contributors
+
+[<img src="https://github.com/CV-DEBUG.png" width="30px;"/> <a href="https://github.com/CV-DEBUG">CV-DEBUG</a>](https://github.com/CV-DEBUG)
+[<img src="https://github.com/Lok774.png" width="30px;"/> <a href="https://github.com/Lok774">kerry-maureemootoo</a>](https://github.com/Lok774) 
+[<img src="https://github.com/antxinerx.png" width="30px;"/> <a href="https://github.com/antxinerx">antxinerx</a>](https://github.com/antxinerx)
