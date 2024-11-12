@@ -32,8 +32,6 @@ Additionally, the YouTuber "Graven" has published a video tutorial on building a
 
 The code and design of the Tic-Tac-Toe game in this repository closely follows the examples and best practices outlined in the "Invent Your Own Computer Games with Python" book and the Graven video tutorial.
 
-Voici le texte Markdown avec les icônes à côté des contributeurs :
-
 ### Contributors
 
 [<img src="https://github.com/CV-DEBUG.png" width="30px;"/> <a href="https://github.com/CV-DEBUG">CV-DEBUG</a>](https://github.com/CV-DEBUG)
