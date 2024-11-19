@@ -31,7 +31,7 @@ The project was developed using the book "Invent Your Own Computer Games with Py
 
 
 
-The code and design of the Tic-Tac-Toe game in this repository closely follows the examples and best practices outlined in the "Invent Your Own Computer Games with Python" book and the Graven video tutorial.
+The code and design of the Tic-Tac-Toe game in this repository closely follows the examples and best practices outlined in the "Invent Your Own Computer Games with Python" book and the codemy.com video tutorial.
 
 ### Contributors
 
