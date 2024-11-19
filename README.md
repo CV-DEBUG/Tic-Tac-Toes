@@ -24,11 +24,12 @@ The project was developed using the book "Invent Your Own Computer Games with Py
 
 [Invent Your Own Computer Games with Python](https://nostarch.com/inventwithpython)
 
-Additionally, the YouTuber "Graven" has published a video tutorial on building a Tic-Tac-Toe game in Python, which was also referenced during the development of this project:
-
-<a href="https://www.youtube.com/watch?v=sKEoODtAVUM">
-  <img src="https://i.ytimg.com/vi/sKEoODtAVUM/sddefault.jpg" width="200" height="250">
+<p>Additionally, the YouTube video of codemy.com has published a video tutorial on building a Tic-Tac-Toe game in Python, which was also referenced during the development of this project:</p>
+<a href="https://www.youtube.com/watch?v=xx0qmpuA-vM" target="_blank">
+    <img src="https://img.youtube.com/vi/xx0qmpuA-vM/0.jpg" alt="Tic-Tac-Toe Tutorial by codemy.com">
 </a>
+
+
 
 The code and design of the Tic-Tac-Toe game in this repository closely follows the examples and best practices outlined in the "Invent Your Own Computer Games with Python" book and the Graven video tutorial.
 
